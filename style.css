@@ -25,3 +25,12 @@ header {
     background-size: cover;
 
 }
+
+a:hover {
+    color: rgba(255, 47, 0, 0.916);
+
+}
+
+a {
+    font-size: 30px;
+}
