@@ -1,0 +1,27 @@
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    transform: translateY(-50%);
+    border: 8px solid white;
+
+}
+
+main {
+
+    width: 500px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+body {
+    height: 100vh;
+    background-color: rgba(255, 47, 0, 0.916) !important;
+
+}
+
+header {
+    background: url("https://direct.rhapsody.com/imageserver/images/alb.431255978/500x500.jpg");
+    background-size: cover;
+
+}
